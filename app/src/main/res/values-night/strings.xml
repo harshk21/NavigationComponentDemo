@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NavigationComponentExample</string>
+    <string name="get_started">Get Started</string>
+    <string name="enter_you_email">Enter you email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email_to_get_link">Enter your email to send the reset link</string>
+    <string name="reset_link_has_been_sent_to_your_email">Reset link has been sent to your email</string>
+    <string name="next">Next</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="please_check_your_email">Please check you email. The reset link has been sent to %s</string>
+    <string name="go_back_to_login">Go back to login</string>
+    <string name="home">Home</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+</resources>
